@@ -1,0 +1,8 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#weather-info {
+  font-size: 1.2em;
+}
